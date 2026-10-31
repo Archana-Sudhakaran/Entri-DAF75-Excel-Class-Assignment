@@ -1,2 +1,2 @@
-# Entri-DAF75-Excel-Class-Assignment
-This is my Excel Assignment 
+# Entri-DAF75-Class-Assignments
+This is my DATA ANALYTICS course Assignments.
